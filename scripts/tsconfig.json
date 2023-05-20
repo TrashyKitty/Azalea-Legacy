@@ -1,0 +1,16 @@
+{
+    "include": ["src", "build.ts"],
+    "buildOptions": {
+    },
+    "compilerOptions": {
+        "outDir": "build",
+        "allowJs": true,
+        "removeComments": true,
+        "target": "es2022",
+        "lib": ["es2022", "DOM"],
+        "noEmitHelpers": true,
+        "importHelpers": false,
+        "emitDecoratorMetadata": false,
+        "experimentalDecorators": true
+    }
+}

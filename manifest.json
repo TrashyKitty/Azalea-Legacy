@@ -1,0 +1,53 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "§9Now using op instead of admin tag, type !help for commands",
+		"name": "§aAzalea V0.9.1 - Leaderboard update",
+		"uuid": "1a2e42bd-98d4-4e0d-8e3f-934ab8a0c05e",
+		"version": [
+			0,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			19,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "Script that implements basic starter tests.",
+			"type": "script",
+			"language": "javascript",
+			"uuid": "131b53fc-5653-4a75-91b7-9cdF027674ae",
+			"version": [
+				0,
+				0,
+				1
+			],
+			"entry": "scripts/main.js"
+		},
+		{
+			"description": "Some useful things",
+			"type": "data",
+			"uuid": "b338603f-d420-41ac-adf0-0bf39c3ea489",
+			"version": [
+				0,
+				0,
+				1
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.2.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		}
+	],
+	"capabilities": ["script_eval"]
+}

@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "tsc && node build.js"
+  },
+  "devDependencies": {
+    "terser": "^5.16.8"
+  },
+  "dependencies": {
+    "@minecraft/server": "^1.0.0",
+    "@minecraft/server-ui": "^1.0.0-beta.11940b24",
+    "@netlify/zip-it-and-ship-it": "^8.10.0"
+  }
+}

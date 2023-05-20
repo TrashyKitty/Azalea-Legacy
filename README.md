@@ -1,3 +1,5 @@
+# THIS IS CURRENTLY A PRE-RELEASE, IF YOU FIND ANY BUGS SEND THEM IN THE ISSUES TAB
+
 # Azalea
 
 NOTE: This repository is owned by Ant0, but is managed by Ant0 and TRASH
