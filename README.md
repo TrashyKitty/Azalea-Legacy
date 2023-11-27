@@ -1,9 +1,7 @@
-# THIS IS CURRENTLY A PRE-RELEASE, IF YOU FIND ANY BUGS SEND THEM IN THE ISSUES TAB
+![Azalea-Legacy](https://github.com/Ant767/Azalea-Legacy/assets/122332042/36f723e7-cb17-4250-b933-9b1e18313b56)
+*Just coming back to change this*
 
-# Azalea
+> [!WARNING]
+> Azalea-Legacy is discontinued. Please go [here](https://github.com/Ant767/Azalea) for a better solution
 
-NOTE: This repository is owned by Ant0, but is managed by Ant0 and TRASH
-
-# What is azalea?
-
-Azalea is a free and open source server essentials addon for minecraft bedrock, it has existed for over a year and all the code has been deleted and is being replaced with new code.
+This was a short-lived rewrite for Azalea. I eventually gave up and I do not know why. But this was made before the version of azalea that everyone uses today.
